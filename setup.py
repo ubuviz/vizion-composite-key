@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="vizion-composite-key",
-    version="1.0.1",
+    version="1.0.2",
     description="Composite Key for Django >= 2.0",
     long_description=README,
     long_description_content_type="text/markdown",
