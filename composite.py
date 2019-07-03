@@ -24,6 +24,10 @@ So it must:
     * use the ``CompositePKManager`` as the initial manager.
  
 """
+
+__version__ = "1.0.1"
+__author__ = "Ubuviz"
+
 from django.db import models
 from django.db.models.base import ModelBase
  
